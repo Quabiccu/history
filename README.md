@@ -1,2 +1,3 @@
 # history
-Brought(likely, not verified) quotes from Napoleon and Galen to the English literature.
+Galen: The "incurable cases" aphorism now has a likely home in Simple Drugs IX.1 (Kühn XII, around p. 191), with its context restored: Armenian bole clay during the Antonine Plague. It also shows the English line is a condensation, not a literal translation, and traces how it entered the medical literature (Halliday, then Silverman, then Strauss 1968). 
+Napoleon: The "fifty battles" line has an explanation for why nobody could find it in French. Its components trace to Pelet's account of Napoleon's remarks, and the first-person version looks like a Russian-era creation. The exact route by which it reached Western sources is still a hypothesis. 
